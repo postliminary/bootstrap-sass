@@ -13,3 +13,6 @@ Gemfile.lock
 tmp/
 test/screenshots/
 test/dummy/log/*.log
+
+# Ignore IDE
+.idea
